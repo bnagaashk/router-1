@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+
+.about-img {
+  width: 20%;
+}
+
+.heading {
+  color: #6d396b;
+  font-size: 25px;
+}
+.about-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

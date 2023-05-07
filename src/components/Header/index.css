@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.image {
+  width: 15%;
+}
+.heading {
+  font-size: 15px;
+  color: #551e53;
+}
+.wave {
+  display: flex;
+}
+li {
+  color: #551e53;
+  font-size: 15px;
+  margin-left: 13px;
+  margin-left: 13px;
+  list-style-type: none;
+}
+.header-con {
+  display: flex;
+}

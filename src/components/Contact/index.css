@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+
+.image {
+  width: 20%;
+}
+.contact-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: column;
+  align-items: center;
+}
+.head {
+  color: #551e53;
+}
